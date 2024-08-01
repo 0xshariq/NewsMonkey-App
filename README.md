@@ -1,2 +1,3 @@
 # NewsMonkey-App
-Using Reaxt js     
+Using React js     
+Coming Soon
